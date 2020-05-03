@@ -35,19 +35,19 @@ p {
     padding: 0 2em;
 }
 
-.test-wrapper {
+.input-area {
     border: 10px solid grey;
     border-radius: 10px;
     display: flex;
 }
 
-#origin-text {
+#test-text {
     margin: 1em 0;
     padding: 1em 1em 0;
     background-color: #ededed;
 }
 
-#origin-text p {
+#test-text p {
     margin: 0;
     padding-bottom: 1em;
 }
